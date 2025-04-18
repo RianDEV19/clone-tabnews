@@ -1,5 +1,5 @@
 function home(){
-    return <h1>Testando meu servidor</h1>
+    return <h1>the.dev course very good</h1>
 }
 
 export default home;
